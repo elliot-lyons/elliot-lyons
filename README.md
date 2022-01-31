@@ -3,4 +3,4 @@
 - Primarily interested in video game development
 - Learning Java, C++, Python, NLP and how to conquer business world (or at least attempting to!)
 
-Happy to give or receive advice. Enjoy!
+Happy to give and receive advice. Enjoy!
